@@ -28,7 +28,6 @@ QA-Portfolio/
 └── Hybrid-Project/
 └── README.md
 
-
 Each directory contains project documentation, test artifacts, and supporting files (e.g., test cases, reports, automation scripts, and screenshots).
 
 ---
