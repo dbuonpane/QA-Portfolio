@@ -7,6 +7,7 @@ This repository highlights my journey toward becoming a **Hybrid QA Engineer**, 
 
 ## 📁 Repository Structure
 
+```
 QA-Portfolio/
 │
 ├── Manual-Testing/
@@ -27,6 +28,7 @@ QA-Portfolio/
 │
 └── Hybrid-Project/
 └── README.md
+```
 
 Each directory contains project documentation, test artifacts, and supporting files (e.g., test cases, reports, automation scripts, and screenshots).
 
