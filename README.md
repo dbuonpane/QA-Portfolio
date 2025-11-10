@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dbuonpane/QA-Portfolio/main/images/QAPortfolioCover.jpg" width="80%" alt="Danielle Buonpane QA Portfolio Banner">
+</p>
+
 # 🧪 Software QA Portfolio – Danielle Buonpane
 
 Welcome to my Quality Assurance (QA) portfolio!  
