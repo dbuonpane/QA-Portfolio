@@ -54,7 +54,7 @@ Manual-Testing/
 - Checkout Flow
 - Logout
 
-📄 Deliverables
+# 📄 Deliverables
 1. Test Cases
 📄 *Located in*: TestCases/SauceDemo_TestCases.xlsx
 
