@@ -59,23 +59,16 @@ Manual-Testing/
 📄 *Located in*: TestCases/SauceDemo_TestCases.xlsx
 
 The test suite includes:
-🔹 Number of test cases: 15
-🔹 Types: functional, UI, negative, boundary
-🔹 Structure includes:
-
-Test ID
-
-Preconditions
-
-Steps
-
-Expected vs. Actual
-
-Status
-
-Severity/Priority
-
-Attachments
+- Number of test cases: 15
+- Types: functional, UI, negative, boundary
+- Structure includes:
+    - Test ID
+    - Preconditions
+    - Steps
+    - Expected vs. Actual
+    - Status
+    - Severity/Priority
+    - Attachments
 
 2. Bug Reports
 
