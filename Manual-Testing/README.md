@@ -69,9 +69,9 @@ The test suite includes:
     - Status
     - Severity/Priority
     - Attachments
+---
 
 2. Bug Reports
-
     📄 *Located in*: BugReports/
 
 Bug reports include detailed documentation such as:
@@ -82,61 +82,44 @@ Bug reports include detailed documentation such as:
 - Screenshots
 
  Key defects discovered: (TBD)
-
 🐞 BUG-001: 🔧 [Your short description here]
 
 🐞 BUG-002: 🔧 [Your short description here]
 
 🐞 BUG-003: 🔧 [Your short description here]
 
+--- 
+
 3. Test Summary Report
     📄 *Located in*: TestCases/Test_Summary_Report.pdf
 
 Includes:
+- Test scope
+- Environment
+- Execution results
+- Defect summary
+- Recommendations
+- Conclusion
 
-Test scope
-
-Environment
-
-Execution results
-
-Defect summary
-
-Recommendations
-
-Conclusion
-
-🔍 Key Learnings
-
+## 🔍 Key Learnings
 Throughout this manual testing phase, I strengthened my understanding of:
+- (TBD)
 
-Designing structured, maintainable test cases
-
-Balancing positive and negative testing
-
-Writing clear and actionable defect reports
-
-Thinking from both user and developer perspectives
-
-Using manual testing to lay the foundation for future automation
-
-🔧 (You can add 2–3 personalized insights here once Phase 1 is complete.)
-
-🧭 Next Steps in My QA Journey
+## 🧭 Next Steps in My QA Journey
 
 This project marks the completion of Phase 1 of my 6-month QA transition plan.
 
 Next, I will be moving into:
 
-👉 Phase 2 – API Testing with Postman + Newman
+***👉 Phase 2 – API Testing with Postman + Newman***
 I’ll design endpoint tests, validate responses, and begin integrating API work into my hybrid QA workflow.
 
 Follow along here:
-🔗 Main Portfolio Repository: https://github.com/
-<yourusername>/QA-Portfolio
+🔗 ***Main Portfolio Repository***: https://github.com/dbuonpane/QA-Portfolio.git
 
-👩‍💻 Created By
+---
 
-Danielle Buonpane
+## 👩‍💻 Created By
+***Danielle Buonpane***
 Aspiring Hybrid QA Engineer
 📍 Vinton, VA — Open to Remote & Hybrid QA Roles
