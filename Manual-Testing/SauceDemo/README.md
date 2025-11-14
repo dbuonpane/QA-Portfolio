@@ -81,7 +81,7 @@ Bug reports include detailed documentation such as:
 - Severity & priority
 - Screenshots
 
- Key defects discovered: (TBD)
+ Key defects discovered: (TBD) <br> 
 🐞 BUG-001: 🔧 [Your short description here]
 
 🐞 BUG-002: 🔧 [Your short description here]
