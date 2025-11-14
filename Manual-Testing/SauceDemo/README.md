@@ -118,6 +118,6 @@ Follow along here:
 ---
 
 ## 👩‍💻 Created By
-***Danielle Buonpane***
-Aspiring Hybrid QA Engineer
+***Danielle Buonpane*** <br> 
+Aspiring Hybrid QA Engineer <br> 
 📍 Vinton, VA — Open to Remote & Hybrid QA Roles
