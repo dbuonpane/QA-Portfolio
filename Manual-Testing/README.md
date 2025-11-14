@@ -6,7 +6,7 @@
 
 ---
 
-# 📘 Project Overview
+## 📘 Project Overview
 
 This project is part of my ongoing QA Portfolio, where I am developing hands-on skills across manual testing, API testing, and automated testing as I transition into a Hybrid QA Engineer role.
 
@@ -15,7 +15,7 @@ In Phase 1, I focused on building core manual QA competencies by testing the Sau
 
 The goal of this phase was to design structured test cases, execute functional and UI tests, document defects, and produce a professional Test Summary Report — mirroring real QA workflows used in industry.
 
-# 🎯 Objectives
+## 🎯 Objectives
 - Demonstrate the ability to analyze application workflows.
 - Create clear, repeatable manual test cases.
 - Execute test cases and capture actual results.
@@ -24,7 +24,7 @@ The goal of this phase was to design structured test cases, execute functional a
 
 --- 
 
-# 📁 Project Structure
+## 📁 Project Structure
 ```
 Manual-Testing/
 └── SauceDemo/
@@ -45,7 +45,7 @@ Manual-Testing/
     └── README.md
 ```
 
-# 🧪 Scope of Testing
+## 🧪 Scope of Testing
 - This round of manual testing included the following modules:
 - Login & Authentication
 - Products Page (UI + Functional checks)
@@ -54,7 +54,7 @@ Manual-Testing/
 - Checkout Flow
 - Logout
 
-# 📄 Deliverables
+## 📄 Deliverables
 1. Test Cases
 📄 *Located in*: TestCases/SauceDemo_TestCases.xlsx
 
