@@ -75,18 +75,13 @@ The test suite includes:
     📄 *Located in*: BugReports/
 
 Bug reports include detailed documentation such as:
+- Steps to reproduce
+- Expected vs. actual behavior
+- Environment details
+- Severity & priority
+- Screenshots
 
-Steps to reproduce
-
-Expected vs. actual behavior
-
-Environment details
-
-Severity & priority
-
-Screenshots
-
-Key defects discovered:
+ Key defects discovered: (TBD)
 
 🐞 BUG-001: 🔧 [Your short description here]
 
@@ -95,8 +90,7 @@ Key defects discovered:
 🐞 BUG-003: 🔧 [Your short description here]
 
 3. Test Summary Report
-
-📄 Located in: TestCases/Test_Summary_Report.pdf
+    📄 *Located in*: TestCases/Test_Summary_Report.pdf
 
 Includes:
 
