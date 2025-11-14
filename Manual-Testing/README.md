@@ -72,7 +72,7 @@ The test suite includes:
 
 2. Bug Reports
 
-📄 Located in: BugReports/
+📄 *Located in*: BugReports/
 
 Bug reports include detailed documentation such as:
 
