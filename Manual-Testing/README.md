@@ -55,7 +55,7 @@ Manual-Testing/
 - Logout
 
 ## 📄 Deliverables
-1. Test Cases
+1. Test Cases <br> 
 📄 *Located in*: TestCases/SauceDemo_TestCases.xlsx
 
 The test suite includes:
