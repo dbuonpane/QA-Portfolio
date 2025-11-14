@@ -70,7 +70,6 @@ The test suite includes:
     - Status
     - Severity/Priority
     - Attachments
----
 
 ## 2. Bug Reports
     📄 *Located in*: BugReports/
@@ -88,8 +87,6 @@ Bug reports include detailed documentation such as:
 🐞 BUG-002: 🔧 [Your short description here]
 
 🐞 BUG-003: 🔧 [Your short description here]
-
---- 
 
 ## 3. Test Summary Report
     📄 *Located in*: TestCases/Test_Summary_Report.pdf
