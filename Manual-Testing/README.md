@@ -10,7 +10,7 @@
 
 This project is part of my ongoing QA Portfolio, where I am developing hands-on skills across manual testing, API testing, and automated testing as I transition into a Hybrid QA Engineer role.
 
-In Phase 1, I focused on building core manual QA competencies by testing the SauceDemo web application:
+In Phase 1, I focused on building core manual QA competencies by testing the SauceDemo web application: <br>
 🔗 https://www.saucedemo.com/
 
 The goal of this phase was to design structured test cases, execute functional and UI tests, document defects, and produce a professional Test Summary Report — mirroring real QA workflows used in industry.
