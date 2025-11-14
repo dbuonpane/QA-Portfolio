@@ -15,18 +15,16 @@ In Phase 1, I focused on building core manual QA competencies by testing the Sau
 
 The goal of this phase was to design structured test cases, execute functional and UI tests, document defects, and produce a professional Test Summary Report — mirroring real QA workflows used in industry.
 
-🎯 Objectives
+# 🎯 Objectives
+- Demonstrate the ability to analyze application workflows.
+- Create clear, repeatable manual test cases.
+- Execute test cases and capture actual results.
+- Identify, document, and prioritize bugs with reproduction steps and screenshots.
+- Deliver a formal Test Summary Report to showcase QA communication and reporting skills.
 
-Demonstrate the ability to analyze application workflows.
+--- 
 
-Create clear, repeatable manual test cases.
-
-Execute test cases and capture actual results.
-
-Identify, document, and prioritize bugs with reproduction steps and screenshots.
-
-Deliver a formal Test Summary Report to showcase QA communication and reporting skills.
-
+# 📁 Project Structure
 ```
 Manual-Testing/
 └── SauceDemo/
@@ -47,33 +45,22 @@ Manual-Testing/
     └── README.md
 ```
 
-🧪 Scope of Testing
-
-This round of manual testing included the following modules:
-
-Login & Authentication
-
-Products Page (UI + Functional checks)
-
-Add to Cart
-
-Cart Management
-
-Checkout Flow
-
-Logout
+# 🧪 Scope of Testing
+- This round of manual testing included the following modules:
+- Login & Authentication
+- Products Page (UI + Functional checks)
+- Add to Cart
+- Cart Management
+- Checkout Flow
+- Logout
 
 📄 Deliverables
 1. Test Cases
-
-📄 Located in: TestCases/SauceDemo_TestCases.xlsx
+📄 *Located in*: TestCases/SauceDemo_TestCases.xlsx
 
 The test suite includes:
-
-🔹 Number of test cases: 🔧XX
-
+🔹 Number of test cases: 15
 🔹 Types: functional, UI, negative, boundary
-
 🔹 Structure includes:
 
 Test ID
