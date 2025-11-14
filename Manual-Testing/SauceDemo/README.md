@@ -55,7 +55,8 @@ Manual-Testing/
 - Logout
 
 ## 📄 Deliverables
-1. Test Cases <br> 
+
+## 1. Test Cases <br> 
 📄 *Located in*: TestCases/SauceDemo_TestCases.xlsx
 
 The test suite includes:
@@ -71,7 +72,7 @@ The test suite includes:
     - Attachments
 ---
 
-2. Bug Reports
+## 2. Bug Reports
     📄 *Located in*: BugReports/
 
 Bug reports include detailed documentation such as:
@@ -90,7 +91,7 @@ Bug reports include detailed documentation such as:
 
 --- 
 
-3. Test Summary Report
+## 3. Test Summary Report
     📄 *Located in*: TestCases/Test_Summary_Report.pdf
 
 Includes:
