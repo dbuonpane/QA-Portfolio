@@ -72,7 +72,6 @@ The test suite includes:
     - Actual Result 
     - Status (Pass/Fail) 
     - Severity/Priority
-        - 
     - Attachments
 
 ## 2. Bug Reports
