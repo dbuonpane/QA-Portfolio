@@ -61,14 +61,18 @@ Manual-Testing/
 
 The test suite includes:
 - Number of test cases: 15
-- Types: functional, UI, negative, boundary
+- Types: functional, UI, negative, boundary (MAY BE UPDATED IN FUTURE..) 
 - Structure includes:
     - Test ID
+    - Feature/Module Under Test
+    - Test Scenario 
     - Preconditions
-    - Steps
-    - Expected vs. Actual
-    - Status
+    - Test Steps
+    - Expected Result
+    - Actual Result 
+    - Status (Pass/Fail) 
     - Severity/Priority
+        - 
     - Attachments
 
 ## 2. Bug Reports
